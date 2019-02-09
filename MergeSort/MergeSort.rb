@@ -29,6 +29,7 @@ class Sorter
             c << b[0]
             b.shift
         end
+        puts c.length()
         return c
     end
 end

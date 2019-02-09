@@ -15,7 +15,6 @@ class VowelCount
                 vowels[char] += 1
             end
         end
-        puts vowels
         vowels
     end
 end
